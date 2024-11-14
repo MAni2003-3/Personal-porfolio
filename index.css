@@ -43,7 +43,7 @@ text-shadow: 2px 2px 0 #4074b5, 2px -2px 0 #4074b5, -2px 2px 0 #4074b5, -2px -2p
     margin-top: 13vh;
     float: right;
     margin-right: 10%;
-    background-image: url(../assets/images/Mani3.jpg);
+    background-image: url(Mani3.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     border: 5px solid black;
@@ -107,7 +107,7 @@ div .hh1{
     float: left;
     margin-left: 9%;
     border-radius: 50%;
-    background-image: url(../assets/images/Mani3.jpg);
+    background-image: url(Mani3.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     border: 5px solid black;
